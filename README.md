@@ -2,6 +2,8 @@
 Hi, I'm **Matt Bolitho**. I'm a software developer originally from Somerset, UK.
 I currently work as a software developer at **[BWT Racing Point F1 Team](https://www.racingpointf1.com/ "BWT Racing Point F1 Team Website")**.
 
+I like to work out how to make code run as fast as possible. 🏎
+
 ### ⚡ Interests
 - High Performance Programming
 - CPU Architecture and Features
@@ -9,8 +11,10 @@ I currently work as a software developer at **[BWT Racing Point F1 Team](https:/
 - Compilers and Optimized Code Generation
 
 ### 👨‍💻 Languages and Technologies
-- C# / .NET Core
+- C#/.NET Core
 - C/C++
+- Visual Studio
+- Intel Parallel Studio
 
 ### 📫 Contact Me
 
