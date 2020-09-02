@@ -9,7 +9,7 @@ I like to work out how to make code run as fast as possible. 🏎
 - CPU Architecture and Features
 - Programming Languages
 - Compilers and Optimized Code Generation
-- Systems and Operating Systems
+- General Computer Systems / Operating Systems
 
 ### 👨‍💻 Languages and Technologies
 - C#/.NET Core
