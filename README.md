@@ -6,10 +6,11 @@ I like to work out how to make code run as fast as possible. 🏎
 
 ### ⚡ Interests
 - High Performance Programming
-- CPU Architecture and Features
 - Programming Languages
 - Compilers and Optimized Code Generation
-- General Computer Systems / Operating Systems
+- Computer Systems
+- CPU Architecture and Features
+- Video Games
 
 ### 👨‍💻 Languages and Technologies
 - C#/.NET Core
