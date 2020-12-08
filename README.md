@@ -15,8 +15,6 @@ I like to work out how to make code run as fast as possible. 🏎
 ### 👨‍💻 Languages and Technologies
 - C#/.NET Core
 - C/C++
-- Visual Studio
-- Intel Parallel Studio
 
 ### 📫 Contact Me
 
