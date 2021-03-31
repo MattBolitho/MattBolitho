@@ -1,6 +1,6 @@
 ## About Me 👋
 Hi, I'm **Matt Bolitho**. I'm a software developer originally from Somerset, UK.
-I currently work as a software developer at **[BWT Racing Point F1 Team](https://www.racingpointf1.com/ "BWT Racing Point F1 Team Website")**.
+I currently work as a software developer at **[Aston Martin F1 Team](https://www.astonmartinf1.com "Aston Martin F1 Team Website")**.
 
 I like to work out how to make code run as fast as possible. 🏎
 
