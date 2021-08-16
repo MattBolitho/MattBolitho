@@ -6,9 +6,7 @@ I like to work out how to make code run as fast as possible. 🏎
 
 ### ⚡ Interests
 - High Performance Programming
-- Programming Languages
-- Compilers and Optimized Code Generation
-- Computer Systems
+- Programming Languages, Compilers and Code Generation
 - CPU Architecture and Features
 - Video Games
 
