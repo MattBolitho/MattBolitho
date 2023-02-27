@@ -1,6 +1,6 @@
 ## About Me 👋
 Hi, I'm **Matt Bolitho**. I'm a software developer originally from Somerset, UK.
-I currently work as a software engineer at **[Alpine F1 Team](https://www.alpinecars.com/en/formula-1/the-team/ "Alpine F1 Team Website")**.
+I currently work as a Senior Software Engineer at **[Alpine F1 Team](https://www.alpinecars.com/en/formula-1/the-team/ "Alpine F1 Team Website")**.
 
 ### ⚡ Interests
 - High Performance Programming
