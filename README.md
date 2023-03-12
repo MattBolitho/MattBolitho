@@ -15,6 +15,4 @@ I currently work as a Senior Software Engineer at **[Alpine F1 Team](https://www
 
 ### 📫 Contact Me
 
-LinkedIn: https://www.linkedin.com/in/matthew-bolitho-b85402171/
-
-✉ Or just [send me an email](mailto:matt.bolitho.software@gmail.com)!
+Via [email](mailto:matt.bolitho.software@gmail.com) or [LinkedIn](https://www.linkedin.com/in/matthew-bolitho-b85402171/).
