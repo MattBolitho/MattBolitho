@@ -5,8 +5,8 @@ I currently work as a Senior Software Engineer at **[Alpine F1 Team](https://www
 ### ⚡ Interests
 
 - Making code run faster
-- Languages and compilers
 - Simulation
+- Languages and compilers
 - Video games
 
 ### 👨‍💻 Languages
