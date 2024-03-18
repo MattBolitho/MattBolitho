@@ -13,7 +13,8 @@ I currently work as a Senior Software Engineer at **[Alpine F1 Team](https://www
 
 - C/C++
 - C#/.NET Core
+- Rust
 
 ### 📫 Contact Me
 
-Via [email](mailto:matt.bolitho.software@gmail.com) or [LinkedIn](https://www.linkedin.com/in/matthew-bolitho-b85402171/).
+Via [email](mailto:matt.bolitho.software@gmail.com), [LinkedIn](https://www.linkedin.com/in/matthew-bolitho-b85402171/).
